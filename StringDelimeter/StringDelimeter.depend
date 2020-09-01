@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1598810927 source:d:\ltts\stringdelimeter\src\string.c
+	<stdio.h>
+
+1598811014 d:\ltts\stringdelimeter\inc\string.h
+
+1598810939 source:d:\ltts\stringdelimeter\main.c
+	<stdio.h>
+	<string.h>
+	"string.h"
+	"test_string.h"
+
+1598767708 d:\ltts\stringdelimeter\test\test_string.h
+
+1596710268 source:d:\ltts\stringdelimeter\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1596710268 d:\ltts\stringdelimeter\unity\unity.h
+	"unity_internals.h"
+
+1596710268 d:\ltts\stringdelimeter\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1598810614 source:d:\ltts\stringdelimeter\test\test_string.c
+	"unity.h"
+	"String.h"
+
