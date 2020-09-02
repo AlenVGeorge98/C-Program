@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1598786957 source:d:\ltts\calculator\main.c
+	<stdio.h>
+	"calculator.h"
+	"test_calculator.h"
+
+1598786677 source:d:\ltts\calculator\src\calculator.c
+	<stdio.h>
+
+1598786942 d:\ltts\calculator\inc\calculator.h
+
+1596710268 source:d:\ltts\calculator\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1596710268 d:\ltts\calculator\unity\unity.h
+	"unity_internals.h"
+
+1596710268 d:\ltts\calculator\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1598786304 source:d:\ltts\calculator\test\test_calculator.c
+	"unity.h"
+	"calculator.h"
+
+1598784494 d:\ltts\calculator\test\test_calculator.h
+
