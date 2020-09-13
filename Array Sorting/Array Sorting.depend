@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1600023091 source:d:\ltts\array sorting\src\sort.c
+	<stdio.h>
+	<stdlib.h>
+
+1600022330 source:d:\ltts\array sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test_sort.h"
+
+1600020683 d:\ltts\array sorting\inc\sort.h
+
+1596710268 source:d:\ltts\array sorting\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1596710268 d:\ltts\array sorting\unity\unity.h
+	"unity_internals.h"
+
+1596710268 d:\ltts\array sorting\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1600007764 d:\ltts\array sorting\test\test_sort.h
+
+1600023072 source:d:\ltts\array sorting\test\test_sort.c
+	"unity.h"
+	"sorting.h"
+	<stdlib.h>
+
+1600022998 d:\ltts\array sorting\inc\sorting.h
+
